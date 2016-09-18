@@ -1,0 +1,38 @@
+body {
+	font-family: sans-serif;
+	
+}
+#app {
+	padding-top:20%;
+}
+.whiteText {
+	color: white;
+}
+.colorBox {
+	margin-right: 2%;
+	width:12%;
+	display:inline-block;
+}
+.colorName {
+    font-weight: bold;
+    font-size: 1.7em;
+}
+.colorValue {
+    font-size: 1.7em;
+    margin-bottom: 65%;
+    font-weight: 300;
+}
+.input {
+	width : 40%;
+	margin-top: 5%;
+}
+
+.hexValue {
+	font-size: 5em;
+	display: block;
+	margin-top: 4%;
+}
+
+
+
+
